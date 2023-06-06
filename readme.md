@@ -4,6 +4,7 @@
 ### Nahuel Argandoña
 ### Ismael Callamullo
 ### Gaston Gomez
+### Jorgito Olea
 ## Rutas:
 #### a. localhost:3030/heroes
 #### b. localhost:3030/heroes/detalle/1
